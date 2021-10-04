@@ -1,0 +1,16 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e8e8eb;
+}
+
+.titulo-logo {
+    width: 125px;
+}
+
+.titulo-principal {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+}

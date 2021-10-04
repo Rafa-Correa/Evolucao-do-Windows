@@ -1,0 +1,11 @@
+main {
+    padding: 2rem;
+    font-family: 'Bona Nova', serif;
+    text-align: justify;
+}
+
+.titulo {
+    font-size: large;
+    margin: 0.5rem;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.linhaDoTempo {
+    background-image: linear-gradient(#fefefe, #e2dcdc);
+}
+
+.linhaDoTempo-tabela {
+    margin: 0 auto;
+}
+
+.celula-txt {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.celula-img {
+    background-color: #eeeeee;
+    padding: 1rem;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.linha-logo {
+    width: 150px;
+}

@@ -1,0 +1,11 @@
+@import url(sistemas/win1.css);
+
+.imagem-info {
+    width: 350px;
+}
+
+.titulo {
+    font-size: large;
+    margin: 0.5rem;
+    font-weight: bold;
+}
