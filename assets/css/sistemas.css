@@ -1,5 +1,9 @@
 @import url(sistemas/win1.css);
 
+.imagens {
+    margin: 0 auto;
+}
+
 .imagem-info {
     width: 350px;
 }
