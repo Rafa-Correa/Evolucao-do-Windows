@@ -1,0 +1,7 @@
+.winme {
+  background-image: linear-gradient(#fefefe, #e2dfdf);
+}
+
+.win2000 {
+  background-image: linear-gradient(#fefefe, #e2dfdf);
+}
