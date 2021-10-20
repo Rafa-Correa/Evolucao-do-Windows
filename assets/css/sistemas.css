@@ -1,5 +1,6 @@
-@import url(sistemas/win1.css);
 @import url(sistemas/dos.css);
+@import url(sistemas/win1.css);
+@import url(sistemas/win95.css);
 
 .imagens {
     display: flex;
