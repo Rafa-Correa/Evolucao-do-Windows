@@ -1,7 +1,7 @@
 .win95 {
-  background-image: linear-gradient(#fefefe, #e2dfdf);
+  background-image: linear-gradient(#fefefe, #e2dcdc);
 }
 
 .win98 {
-  background-image: linear-gradient(#fefefe, #e2dfdf);
+  background-image: linear-gradient(#fefefe, #e2dcdc);
 }
