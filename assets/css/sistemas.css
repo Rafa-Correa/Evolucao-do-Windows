@@ -3,6 +3,10 @@
 @import url(sistemas/win95.css);
 @import url(sistemas/winme.css);
 
+.sistema {
+    background-image: linear-gradient(#fefefe, #e2dcdc);
+}
+
 .imagens {
     display: flex;
     flex-direction: column;
